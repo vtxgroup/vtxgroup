@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vtxgroup" alt="vtxgroup" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/vtxgroup_id" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/vtxgroup_id?logo=twitter&style=for-the-badge" alt="https://x.com/vtxgroup_id" /></a> </p>
-
 - 🔭 I’m currently working on [VTX API](https://github.com/vtxgroup/VTX-Docs)
 
 - 📫 How to reach me **fort@vtxgroup.my.id**
